@@ -1,5 +1,7 @@
 # openCV
-http://www.opencv.org/
+offical : http://www.opencv.org/  
+git : https://github.com/opencv/opencv
+
 
 ### Install information
 1. python 3.6
